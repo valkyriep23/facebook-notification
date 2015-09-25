@@ -1,0 +1,1 @@
+Get Facebook notifications on your desktop. Now with fluid sidebar resizing and internalization support. Based on original Facebook Notification by Turhan Aydin.
